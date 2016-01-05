@@ -1,5 +1,5 @@
-# ColorModifier
-!ColorModifier Library!
+# ColorModifier Library!
+
 This Library is to change output text color (Black, Red, Green, Yellow, Blue, Magenta, Cyan, White) or change text style (Bold, Dimmed, Underlined, Hidden).
 
 For instructions, please read the "sample.cpp" file!
